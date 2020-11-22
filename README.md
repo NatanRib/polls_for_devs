@@ -1,6 +1,6 @@
 # polls_for_devs
 
-A new Flutter project.
+Projeto para aplicar os conhecimentos do curso do manginho de clean architecture, TDD, SOLID e design patterns.
 
 ## Getting Started
 
