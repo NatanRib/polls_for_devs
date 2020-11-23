@@ -32,6 +32,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+    
+  #LIBs PARA AUXILIAR NOS TESTES
+  test:
+  mockito:
+  faker:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
